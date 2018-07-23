@@ -1,0 +1,5 @@
+
+
+worker: node bot.js
+
+  
